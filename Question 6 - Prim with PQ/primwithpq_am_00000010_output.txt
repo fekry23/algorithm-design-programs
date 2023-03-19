@@ -1,0 +1,12 @@
+Prim's algorithm with priority queue:
+7 - 1: 5
+0 - 2: 6
+0 - 3: 12
+1 - 4: 12
+4 - 5: 4
+3 - 6: 12
+2 - 7: 5
+4 - 8: 7
+1 - 9: 6
+
+Duration by Prim's algorithm with pq: 0s
